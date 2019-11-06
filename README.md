@@ -1,0 +1,4 @@
+# Program Minimum ** 2
+This is a very basic program based on the StrongFirst kettlebell [article] (https://www.strongfirst.com/program-minimum-squared/), written by Jon Engum, "Program Minimum [Squared]". The program randomly chooses one of six possible progressions to the Turkish Get-up, Swing, Bent-Press, and Snatch kettlebell exercises based on the trainee's skill level and the day of the week.
+
+Currently, this is just a CLI script, but I plan to build it as a mobile app as I progress in my learning. This is also an "advanced" version which will eventually allow the user to make a profile and set skill levels for individual exercises as opposed to the skill level being chosen for the whole day's workout.
